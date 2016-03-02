@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: d65b4cc681f0b4e1b8964138ba87ddf6
+timeCreated: 1456945935
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: Foot_1
+    100004: Foot_1 1
+    100006: Foot_1 2
+    100008: Foot_1 3
+    100010: Handle
+    100012: Leg_1
+    100014: Leg_2
+    100016: Leg_3
+    100018: Leg_4
+    100020: Legs
+    100022: //RootNode
+    100024: Spring_1_Bottom
+    100026: Spring_1_Bottom 1
+    100028: Spring_1_Bottom 2
+    100030: Spring_1_Bottom 3
+    100032: Spring_1_Top
+    100034: Spring_1_Top 1
+    100036: Spring_1_Top 2
+    100038: Spring_1_Top 3
+    100040: Stairs
+    400000: Body
+    400002: Foot_1
+    400004: Foot_1 1
+    400006: Foot_1 2
+    400008: Foot_1 3
+    400010: Handle
+    400012: Leg_1
+    400014: Leg_2
+    400016: Leg_3
+    400018: Leg_4
+    400020: Legs
+    400022: //RootNode
+    400024: Spring_1_Bottom
+    400026: Spring_1_Bottom 1
+    400028: Spring_1_Bottom 2
+    400030: Spring_1_Bottom 3
+    400032: Spring_1_Top
+    400034: Spring_1_Top 1
+    400036: Spring_1_Top 2
+    400038: Spring_1_Top 3
+    400040: Stairs
+    2300000: Body
+    2300002: Foot_1
+    2300004: Foot_1 1
+    2300006: Foot_1 2
+    2300008: Foot_1 3
+    2300010: Handle
+    2300012: Spring_1_Bottom
+    2300014: Spring_1_Bottom 1
+    2300016: Spring_1_Bottom 2
+    2300018: Spring_1_Bottom 3
+    2300020: Spring_1_Top
+    2300022: Spring_1_Top 1
+    2300024: Spring_1_Top 2
+    2300026: Spring_1_Top 3
+    2300028: Stairs
+    3300000: Body
+    3300002: Foot_1
+    3300004: Foot_1 1
+    3300006: Foot_1 2
+    3300008: Foot_1 3
+    3300010: Handle
+    3300012: Spring_1_Bottom
+    3300014: Spring_1_Bottom 1
+    3300016: Spring_1_Bottom 2
+    3300018: Spring_1_Bottom 3
+    3300020: Spring_1_Top
+    3300022: Spring_1_Top 1
+    3300024: Spring_1_Top 2
+    3300026: Spring_1_Top 3
+    3300028: Stairs
+    4300000: Foot_1
+    4300002: Spring_1_Top
+    4300004: Spring_1_Bottom
+    4300006: Foot_1
+    4300008: Spring_1_Top
+    4300010: Spring_1_Bottom
+    4300012: Foot_1
+    4300014: Spring_1_Top
+    4300016: Spring_1_Bottom
+    4300018: Foot_1
+    4300020: Spring_1_Top
+    4300022: Spring_1_Bottom
+    4300024: Handle
+    4300026: Body
+    4300028: Stairs
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 150
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
